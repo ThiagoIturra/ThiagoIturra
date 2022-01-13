@@ -3,7 +3,7 @@ Oii! Eu me chamo Thiago
 - 🔭 Trabalhando com Desenvolvimento Front-end
 - 🌱 Estou me aprofundando em javaScript e React
 - 📫 Entre em contato pelo email: augusto.iturra@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronome: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/ThiagoIturra">
