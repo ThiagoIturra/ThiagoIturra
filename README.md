@@ -3,7 +3,6 @@ Oii! Eu me chamo Thiago
 - 🔭 Trabalhando com Desenvolvimento Front-end
 - 🌱 Estou me aprofundando em javaScript e React
 - 📫 Entre em contato pelo email: augusto.iturra@gmail.com
-- 😄 Pronome: Ele/Dele
 
 <div>
   <a href="https://github.com/ThiagoIturra">
@@ -16,7 +15,7 @@ Oii! Eu me chamo Thiago
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/549665749514321942/931244588339970138/EU.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/549665749514321942/931278092461281381/eu.jpg">
   </div>
   
   ##
