@@ -4,6 +4,8 @@ Oii! Eu me chamo Thiago
 - 🌱 Estou me aprofundando em javaScript e React
 - 📫 Entre em contato pelo email: thiago.iturra@gmail.com
 
+##
+
 <div>
   <a href="https://github.com/ThiagoIturra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
