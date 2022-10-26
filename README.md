@@ -16,7 +16,7 @@ Oii! Eu me chamo Thiago
   <img align="center" alt="Thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thi-sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="right" alt="Thi-pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1028791305633026192/1034662903636295710/lucky-star-anime.gif">
+  <img align="right" alt="Thi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1028791305633026192/1034662903636295710/lucky-star-anime.gif">
   </div>
   
   ##
