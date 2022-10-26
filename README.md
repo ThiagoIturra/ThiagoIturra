@@ -22,6 +22,6 @@ Oii! Eu me chamo Thiago
   ##
  
 <div> 
- <a href="https://wa.me/5511947810163;" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5511947810163&text=Ol%C3%A1%20Thiago" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiago.iturra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
