@@ -8,7 +8,7 @@ Oii! Eu me chamo Thiago
 
 <div>
   <a href="https://github.com/ThiagoIturra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIturra&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
