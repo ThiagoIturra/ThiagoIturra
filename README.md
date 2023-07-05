@@ -6,7 +6,7 @@ Oii! Eu me chamo Thiago
 
 ##
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/ThiagoIturra">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" width="405em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIturra&layout=compact&langs_count=7&theme=cobalt"/>
