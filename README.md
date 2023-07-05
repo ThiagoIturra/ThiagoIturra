@@ -6,7 +6,7 @@ Oii! Eu me chamo Thiago
 
 ##
 
-<div style="display: flex; flex-direction: row; width: 100%; justify-content: center; align-items: center;">
+<div style="display: flex; flex-direction: row; width: 100%;">
   <a href="https://github.com/ThiagoIturra">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIturra&layout=compact&langs_count=7&theme=cobalt"/>
