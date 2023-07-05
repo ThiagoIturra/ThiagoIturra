@@ -1,4 +1,5 @@
-Oii! Eu me chamo Thiago
+Olá, Bem-vindo ao meu jardim, onde as sementes são plantadas com amor para florescerem em majestosas árvores.
+🌹🌿🌻🌸🌷🌼💐🌹
 
 - 🔭 Trabalhando com Desenvolvimento Front-end
 - 🌱 Estou me aprofundando em javaScript e React
