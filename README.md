@@ -10,7 +10,7 @@ Hello, welcome to my garden, where seeds are planted with love to bloom into maj
 <div style="display: flex; flex-direction: row; width: 100%;">
   <a href="https://github.com/ThiagoIturra">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=material-palenight"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIturra&hide_progress=compact&langs_count=7&theme=material-palenight"/>   
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIturra&hide_progress=hide&langs_count=7&theme=material-palenight"/>   
 </div>
 
   
