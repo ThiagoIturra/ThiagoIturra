@@ -12,6 +12,7 @@ Hello, welcome to my garden, where seeds are planted with love to bloom into maj
   <img height="175px" src="https://github-readme-stats-ruby-one.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="175px" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ThiagoIturra&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+https://github-readme-stats-ruby-one.vercel.app
   
 <div style="display: inline_block; justfy-content: center; align-items: center;"><br>
   <img align="center" alt="Thi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
