@@ -9,7 +9,7 @@ Hello, welcome to my garden, where seeds are planted with love to bloom into maj
 
 <div style="display: flex; flex-direction: row; width: 100%;">
   <a href="https://github.com/ThiagoIturra">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIturra&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 https://github-readme-stats-ruby-one.vercel.app
