@@ -11,7 +11,6 @@ Hello, welcome to my garden, where seeds are planted with love to bloom into maj
   <a href="https://github.com/ThiagoIturra">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=ThiagoIturra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIturra&layout=compact&langs_count=7&theme=cobalt"/>
-<!--   <img align="right" alt="Thi-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1028791305633026192/1034662903636295710/lucky-star-anime.gif"> -->
 </div>
   
 <div style="display: inline_block; justfy-content: center; align-items: center;"><br>
