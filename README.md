@@ -1,9 +1,9 @@
-Olá, Bem-vindo ao meu jardim, onde as sementes são plantadas com amor para florescerem em majestosas árvores.
+Hello, welcome to my garden, where seeds are planted with love to bloom into majestic trees.
 🌹🌿🌻🌸🌷🌼
 
-- 🔭 Trabalhando com Desenvolvimento Front-end
-- 🌱 Estou me aprofundando em javaScript e React
-- 📫 Entre em contato pelo email: thiago.iturra@gmail.com
+- 🔭 Working with Front-End Development.
+- 🌱 I'm diving deeper into JavaScript and React.
+- 📫 Get in touch via email: thiago.iturra@gmail.com
 
 ##
 
