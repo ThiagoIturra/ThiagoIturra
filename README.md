@@ -2,7 +2,7 @@ Hello, welcome to my garden, where seeds are planted with love to bloom into maj
 🌹🌿🌻🌸🌷🌼
 
 - 🔭 Working with Front-End Development.
-- 🌱 I'm diving deeper into JavaScript and React.
+- 🌱 I'm diving deeper into JavaScript, React and React Native.
 - 📫 Get in touch via email: thiago.iturra@gmail.com
 
 ##
