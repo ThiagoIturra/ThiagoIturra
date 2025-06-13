@@ -1,7 +1,8 @@
-<p align="left">
-  <img src="https://pbs.twimg.com/media/GdLw31UW4AAVCSC?format=jpg&name=medium" width="270px" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
 
+  <img src="https://pbs.twimg.com/media/GdLw31UW4AAVCSC?format=jpg&name=medium" width="270px" />
+
+<pre>
 /🌱 About_Me
 │
 ├── 🧬 bio:
@@ -25,7 +26,7 @@
 │   ├── material ui
 │   ├── styled-components
 │   └── chakra ui
-|
+│
 ├── 📚 learning:
 │   ├── react
 │   └── java
@@ -38,3 +39,5 @@
     ├── docker - containerization
     ├── milanote - planning and mind map
     └── obsidian - notes taking
+</pre>
+</div>
