@@ -13,12 +13,14 @@
 │   ├── 🧪 working as a front-end developer intern.
 │   └── 📖 constantly studying and improving.
 │
+│
 ├── 🧠 langs:
 │   ├── javascript
 │   ├── react
 │   ├── react native
 │   ├── blazor
 │   └── python
+│
 │
 ├── 🎨 styling frameworks:
 │   ├── css3
@@ -29,12 +31,15 @@
 │   ├── styled-components
 │   └── chakra ui
 │
+│
 ├── 📚 learning:
 │   ├── react
 │   └── java
 │
+│
 ├── 💻 os:
 │   └── win 11
+│
 │
 └── 🧰 tools:
     ├── postman - api
