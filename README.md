@@ -5,24 +5,22 @@
     </td>
     <td>
 <pre>
-/🌱 About_Me
+/ About_Me
 │
-├── 🧬 bio:
+├──  bio:
 │   ├── 🇧🇷 from São Paulo, Brazil — pt-br ⇄ eng.
 │   ├── 💻 systems analysis and development.
 │   ├── 🧪 working as a front-end developer intern.
 │   └── 📖 constantly studying and improving.
 │
-│
-├── 🧠 langs:
+├──  langs:
 │   ├── javascript
 │   ├── react
 │   ├── react native
 │   ├── blazor
 │   └── python
 │
-│
-├── 🎨 styling frameworks:
+├──  styling frameworks:
 │   ├── css3
 │   ├── sass / scss
 │   ├── tailwind css
@@ -31,19 +29,19 @@
 │   ├── styled-components
 │   └── chakra ui
 │
-│
-├── 📚 learning:
+├──  learning:
 │   ├── react
 │   └── java
 │
-│
-├── 💻 os:
-│   └── win 11
+├──  os:
+|   ├── win 11 (main)
+│   └── android emulator
 │
 └── 🧰 tools:
     ├── postman - api
     ├── docker - containerization
     ├── milanote - planning and mind map
+    ├── datadog - monitoring
     └── obsidian - notes taking
 </pre>
     </td>
