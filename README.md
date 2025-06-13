@@ -1,6 +1,9 @@
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
-
-  <img src="https://pbs.twimg.com/media/GdLw31UW4AAVCSC?format=jpg&name=medium" width="270px" />
+<table>
+  <tr>
+    <td width="270px">
+      <img src="https://pbs.twimg.com/media/GdLw31UW4AAVCSC?format=jpg&name=medium" width="270px" />
+    </td>
+    <td>
 
 <pre>
 /🌱 About_Me
@@ -40,4 +43,7 @@
     ├── milanote - planning and mind map
     └── obsidian - notes taking
 </pre>
-</div>
+
+    </td>
+  </tr>
+</table>
