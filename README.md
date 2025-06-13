@@ -4,7 +4,7 @@
       <img src="https://pbs.twimg.com/media/GtV_x0yWgAEpYVf?format=jpg&name=900x900" style="max-height: 520px;" />
     </td>
     <td>
-<div>
+<pre>
 / About_Me
 │
 ├──  bio:
@@ -43,7 +43,7 @@
     ├── milanote - planning and mind map
     ├── datadog - monitoring
     └── obsidian - notes taking
-</div>
+</pre>
     </td>
   </tr>
 </table>
