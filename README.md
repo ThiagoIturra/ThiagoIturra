@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://pbs.twimg.com/media/GtV_XbmWMAASQ_9?format=jpg&name=900x900" style="max-height: 520px;" />
+      <img src="https://pbs.twimg.com/media/GtV_x0yWgAEpYVf?format=jpg&name=900x900" style="max-height: 520px;" />
     </td>
     <td>
 <pre>
