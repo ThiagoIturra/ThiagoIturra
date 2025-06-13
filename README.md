@@ -40,7 +40,6 @@
 ├── 💻 os:
 │   └── win 11
 │
-│
 └── 🧰 tools:
     ├── postman - api
     ├── docker - containerization
