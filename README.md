@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td width="100%" height="100%">
-      <img src="https://pbs.twimg.com/media/GUVjFnmXcAA8DWL?format=jpg&name=medium" width="100%" height="100%" />
+    <td>
+      <img src="https://pbs.twimg.com/media/GdLw31UW4AAVCSC?format=jpg&name=medium" style="max-height: 520px;" />
     </td>
     <td>
 <pre>
@@ -42,5 +42,6 @@
     ├── milanote - planning and mind map
     └── obsidian - notes taking
 </pre>
+    </td>
   </tr>
 </table>
