@@ -37,7 +37,7 @@
 |   ├── win 11 (main)
 │   └── android emulator
 │
-└── 🧰 tools:
+└──  tools:
     ├── postman - api
     ├── docker - containerization
     ├── milanote - planning and mind map
