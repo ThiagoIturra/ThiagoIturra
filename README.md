@@ -17,6 +17,7 @@
 │   ├── javascript
 │   ├── react
 │   ├── react native
+│   ├── typeScript
 │   ├── blazor
 │   └── python
 │
