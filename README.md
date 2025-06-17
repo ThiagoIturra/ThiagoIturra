@@ -9,9 +9,9 @@
 │
 ├──  bio:
 │   ├── 🇧🇷 from São Paulo, Brazil — pt-br ⇄ eng.
-│   ├── 💻 systems analysis and development.
-│   ├── 🧪 working as a front-end developer intern.
-│   └── 📖 constantly studying and improving.
+│   ├──  systems analysis and development.
+│   ├──  working as a front-end developer intern.
+│   └──  constantly studying and improving.
 │
 ├──  langs:
 │   ├── javascript
